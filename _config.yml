@@ -3,3 +3,14 @@ title: AV3T's Blog
 description: Bookmark this to keep an eye on my project updates!
 plugins: [jekyll-include-cache]
 minimal_mistakes_skin: "neon"
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/AV3T"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/ernad-ljaljic/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/AV3T_"
