@@ -28,17 +28,16 @@ analytics:
     anonymize_ip: true
 author:
   name   : "AV3T"
-  avatar : "/assets/images/rg.jpg"
   bio    : >-
     My name is Ernad.
 
     I was born in Bosnia and Herzegovina, and I currently reside in the United States.
     I am a penetration tester looking to improve my skills, and share my experiences.
- location: "Washington, United States"
- twitter: "AV3T_"
- linkedin: "ernad"
- github: "AV3T"
- links:
+  location: "Washington, United States"
+  twitter: "AV3T_"
+  linkedin: "ernad"
+  github: "AV3T"
+  links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "ljernad@proton.me"
