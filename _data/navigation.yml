@@ -1,0 +1,7 @@
+main:
+  - title: "Home"
+    url: /Home/
+  - title: "Categories"
+    url: /Categories/    
+  - title: "About me"
+    url: /about/
