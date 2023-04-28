@@ -1,6 +1,6 @@
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 title: AV3T's Blog
-author: "ernad"
+author: ernad
 description: Bookmark this to keep an eye on my project updates!
 plugins: [jekyll-include-cache]
 minimal_mistakes_skin: "neon"
