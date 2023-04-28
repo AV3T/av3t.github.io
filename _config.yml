@@ -50,3 +50,5 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/AV3T_"
+atom_feed:
+  hide: true
