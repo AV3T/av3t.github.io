@@ -14,6 +14,30 @@ var store = [{
         "title": "Writeup1",
         "excerpt":"HTB TEST.  ","categories": [],
         "tags": [],
-        "url": "/categories/htbwriteups/Writeup1/",
+        "url": "/categories/writeups/Writeup1/",
         "teaser": null
-      },]
+      },{
+        "title": "Writeup2",
+        "excerpt":"HTB TEST.  ","categories": [],
+        "tags": [],
+        "url": "/categories/writeups/Writeup2/",
+        "teaser": null
+      },{
+        "title": "Writeup3",
+        "excerpt":"HTB TEST.  ","categories": [],
+        "tags": [],
+        "url": "/categories/writeups/Writeup3/",
+        "teaser": null
+      },{
+        "title": "Writeup4",
+        "excerpt":"HTB TEST.  ","categories": [],
+        "tags": [],
+        "url": "/categories/writeups/Writeup4/",
+        "teaser": null
+      },{
+        "title": "Writeup5",
+        "excerpt":"HTB TEST.  ","categories": [],
+        "tags": [],
+        "url": "/categories/writeups/Writeup5/",
+        "teaser": null
+      }]
