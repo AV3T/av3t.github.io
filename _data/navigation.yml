@@ -1,7 +1,11 @@
 main:
   - title: "Home"
-    url: /
-  - title: "Categories"
-    url: /Categories/    
+    url: /  
+  - title: "HTB Write-ups"
+    url: /htbwriteups/
+  - title: "Cheatsheets"
+    url: /cheatsheets/
+  - title: "Cert. Reviews"
+    url: /certreviews/
   - title: "About me"
     url: /about/
