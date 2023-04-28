@@ -1,5 +1,6 @@
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 title: AV3T's Blog
+author profile: true
 author:
   name        : "Billy Rick"
   bio         : "What do you want, jewels? I am a very extravagant man."
