@@ -4,6 +4,7 @@ livereload: true
 
 author:
   name   : "AV3T"
+  avatar : "/assets/images/test.png"         
   bio    : >-
     My name is Ernad.
 
