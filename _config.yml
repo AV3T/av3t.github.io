@@ -21,3 +21,8 @@ main:
     url: /Categories/    
   - title: "About me"
     url: /about/
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "your-ga-tracking-id"
+    anonymize_ip: true
