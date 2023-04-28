@@ -14,3 +14,10 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/AV3T_"
+main:
+  - title: "Home"
+    url: /Home/
+  - title: "Categories"
+    url: /Categories/    
+  - title: "About me"
+    url: /about/
