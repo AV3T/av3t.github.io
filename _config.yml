@@ -1,6 +1,19 @@
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 title: AV3T's Blog
-author: ernad
+author:
+  name        : "Billy Rick"
+  bio         : "What do you want, jewels? I am a very extravagant man."
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:billyrick@rick.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/extravagantman"
 description: Bookmark this to keep an eye on my project updates!
 plugins: [jekyll-include-cache]
 minimal_mistakes_skin: "neon"
