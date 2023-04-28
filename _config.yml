@@ -1,23 +1,33 @@
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 title: AV3T's Blog
-author profile: true
+livereload: true
+
 author:
-  name        : "Billy Rick"
-  bio         : "What do you want, jewels? I am a very extravagant man."
-  avatar      : "/assets/images/bio-photo-2.jpg"
+  name   : "AV3T"
+  bio    : >-
+    My name is Ernad.
+
+    I was born in Bosnia and Herzegovina, and I currently reside in the United States.
+    I am a penetration tester looking to improve my skills, and share my experiences.
+  location: "Washington, United States"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:billyrick@rick.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://thewhip.com"
+      url: "ljernad@proton.me"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/AV3T"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/ernad-ljaljic/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/extravagantman"
+      url: "https://twitter.com/AV3T_"
+
 description: Bookmark this to keep an eye on my project updates!
 plugins: [jekyll-include-cache]
 minimal_mistakes_skin: "neon"
+
 footer:
   links:
     - label: "GitHub"
@@ -29,13 +39,16 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/AV3T_"
+
 analytics:
   provider: "google"
   google:
     tracking_id: "your-ga-tracking-id"
     anonymize_ip: true
+
 atom_feed:
   hide: true
+
 defaults:
   # _posts
   - scope:
@@ -48,3 +61,5 @@ defaults:
       comments: true
       share: true
       related: true
+
+include: ["_pages"]
