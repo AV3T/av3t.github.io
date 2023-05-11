@@ -1,9 +1,8 @@
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-title: AV3T's Blog
+title: AV3T
 livereload: true
 
 author:
-  name   : "AV3T"
   avatar : "/assets/images/logo2.png"         
   bio    : >-
     My name is Ernad.
